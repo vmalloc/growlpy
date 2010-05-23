@@ -1,3 +1,4 @@
+## See LICENSE for license info
 import struct
 from cStringIO import StringIO
 from hashlib import md5

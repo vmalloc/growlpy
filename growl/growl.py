@@ -1,3 +1,4 @@
+## See LICENSE for license info
 import socket
 from packets import build_registration_packet
 from packets import build_notification_packet

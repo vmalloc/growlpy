@@ -1,4 +1,5 @@
 #! /usr/bin/python
+## See LICENSE for license info
 import os
 import sys
 import subprocess
