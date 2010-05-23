@@ -4,5 +4,5 @@ setup(name="growlpy",
       description="Python bindings for the growl notification system",
       author="Rotem Yaari",
       author_email="vmalloc@gmail.com",
-      version="0.1",
+      version="0.11",
       packages=["growl"])
